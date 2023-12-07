@@ -41,3 +41,19 @@
 .two {
     background-color: yellow;
 }
+/* TOP 4TH PROBLEM */
+.avatar,
+.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar,
+.distorted {
+    width: 200px;
+    height: auto;
+}
+
+.distorted {
+    height: 300px;
+}
