@@ -1,3 +1,4 @@
+/* TOP 1ST PROBLEM */
 .title {
     color: white;
     background-color: red;
@@ -5,7 +6,7 @@
     font-size: 32px;
     text-align: center;
 }
-
+/* TOP 2ND PROBLEM  */
 .odd-numbered {
     background-color: rgb(255, 167, 167);
     font-size: 12px;
@@ -25,7 +26,7 @@
     background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
-
+/* TOP 3RD PROBLEM */
 .one,
 .two {
     font-size: 28px;
