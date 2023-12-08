@@ -57,3 +57,10 @@
 .distorted {
     height: 300px;
 }
+/* TOP 5TH CSS PROBLEM */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
